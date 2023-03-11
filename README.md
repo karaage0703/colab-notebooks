@@ -12,6 +12,7 @@ All colab notebook
 | [colab_tips.ipynb](colab_tips.ipynb)  | Colab Tips Reference ([Usage in Japanese](https://karaage.hatenadiary.jp/entry/2018/12/17/073000)) |
 | [kindle_analytics.ipynb](kindle_analytics.ipynb)  | Kindle analytics ([Usage in Japanese](https://zenn.dev/karaage0703/articles/3a163290a4bc26)) |
 | [rembg.ipynb](rembg.ipynb)  | Remove background of image |
+| [split_pdf.ipynb](split_pdf.ipynb)  | Save PDF file pages in separate files |
 
 
 ## Awesome notebook
