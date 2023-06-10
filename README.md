@@ -16,8 +16,6 @@ All colab notebook
 | [transcription.ipynb](transcription.ipynb)  | Transcribe audio file |
 
 
-https://github.com/facebookresearch/audiocraft
-
 ## Awesome notebook
 Introduce awesome notebooks
 
