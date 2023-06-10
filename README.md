@@ -16,6 +16,8 @@ All colab notebook
 | [transcription.ipynb](transcription.ipynb)  | Transcribe audio file |
 
 
+https://github.com/facebookresearch/audiocraft
+
 ## Awesome notebook
 Introduce awesome notebooks
 
@@ -23,6 +25,9 @@ Introduce awesome notebooks
 |:-|:-|:-|
 | [ndl_ocr_v2.ipynb](https://colab.research.google.com/github/nakamura196/ndl_ocr/blob/main/ndl_ocr_v2.ipynb)  | OCR([Usage in Japanese](https://zenn.dev/nakamura196/articles/b6712981af3384))  | [@satoru196](https://twitter.com/satoru196) |
 | [pdf_translate_fugumt.ipynb](https://colab.research.google.com/drive/1wz5BfvyJFLI_80rTVPkXM6zrjvUTRaIH?usp=sharing)  | Translation of English papers([Usage in Japanese](https://qiita.com/sakasegawa/items/f50aae7f3acf475411aa))  | [@gyakuse](https://twitter.com/gyakuse) |
+| [audiocraft demo](https://github.com/facebookresearch/audiocraft/blob/main/demo.ipynb)  | Generating music from text  | [Meta Research](https://github.com/facebookresearch) |
+
+
 
 
 ## Related link
