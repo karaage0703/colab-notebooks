@@ -13,7 +13,7 @@ All colab notebook
 | [kindle_analytics.ipynb](kindle_analytics.ipynb)  | Kindle analytics ([Usage in Japanese](https://zenn.dev/karaage0703/articles/3a163290a4bc26)) |
 | [rembg.ipynb](rembg.ipynb)  | Remove background of image |
 | [split_pdf.ipynb](split_pdf.ipynb)  | Save PDF file pages in separate files |
-| [transcription.ipynb](transcription.ipynb)  | Transcribe audio file |
+| [transcription.ipynb](transcription.ipynb)  | Transcribe audio file （[Usage in Japanese](https://zenn.dev/karaage0703/articles/6b81561d245968) |
 
 
 ## Awesome notebook
