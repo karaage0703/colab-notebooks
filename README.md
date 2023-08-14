@@ -14,6 +14,7 @@ All colab notebook
 | [rembg.ipynb](rembg.ipynb)  | Remove background of image |
 | [split_pdf.ipynb](split_pdf.ipynb)  | Save PDF file pages in separate files |
 | [transcription.ipynb](transcription.ipynb)  | Transcribe audio file ([Usage in Japanese](https://zenn.dev/karaage0703/articles/6b81561d245968)) |
+| [openai_billing_insights.ipynb](openai_billing_insights.ipynb)  | Check Open AI API Billing |
 
 
 ## Awesome notebook
