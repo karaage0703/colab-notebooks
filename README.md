@@ -17,6 +17,7 @@ All colab notebook
 | [openai_billing_insights.ipynb](openai_billing_insights.ipynb)  | Check Open AI API Billing |
 | [code_cooker_on_colab.ipynb](https://github.com/karaage0703/code-cooker/blob/main/colab-notebooks/code_cooker_on_colab.ipynb)  | Simple data analysis notebook on google colab ([Usage in Japanese](https://zenn.dev/karaage0703/articles/f6a1df0b2eabf4)) |
 | [ipynb2md.ipynb](ipynb2md.ipynb)  | Convert from jupyter notebook(`.ipynb`) to markdown(`.md`) |
+| [datasets_convert.ipynb](datasets_convert.ipynb)  | Hugging Face datasets converting script |
 
 
 ## Awesome notebook
