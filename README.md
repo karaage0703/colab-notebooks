@@ -18,6 +18,7 @@ All colab notebook
 | [code_cooker_on_colab.ipynb](https://github.com/karaage0703/code-cooker/blob/main/colab-notebooks/code_cooker_on_colab.ipynb)  | Simple data analysis notebook on google colab ([Usage in Japanese](https://zenn.dev/karaage0703/articles/f6a1df0b2eabf4)) |
 | [ipynb2md.ipynb](ipynb2md.ipynb)  | Convert from jupyter notebook(`.ipynb`) to markdown(`.md`) |
 | [datasets_convert.ipynb](datasets_convert.ipynb)  | Hugging Face datasets converting script |
+| [Tanuki_data_synthesis_from_elyza_tasks_100.ipynb](Tanuki_data_synthesis_from_elyza_tasks_100.ipynb)  | Data Synthesis script |
 
 
 ## Awesome notebook
